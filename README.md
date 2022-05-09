@@ -1,8 +1,6 @@
-Scripts to modify Power Automate settings
+Scripts to modify Power Automate settings or get usage statistics
 
 In this section:
-
-
   
 * Enable or Disable
   * Disable Flows in all lists on SharePoint site
